@@ -13,7 +13,7 @@
 - 🎯 I'm currently working on my pet projects.
 - 🎮 I love LMHT.
 
-**Here are some projects:**
+**Here are some of my projects:**
 
 1. [**Youth Book:**](https://www.youthbook.online/) My website lets you upload stories and share them with others for everyone to read and enjoy.
  
