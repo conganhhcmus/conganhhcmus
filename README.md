@@ -15,7 +15,7 @@
 
 **Here are some of my projects:**
 
-1. [**Youth Book:**](https://www.youthbook.online/) My website lets you upload stories and share them with others for everyone to read and enjoy.
+1. [**Youth Book:**](https://youth-book.vercel.app) My website lets you upload stories and share them with others for everyone to read and enjoy.
  
 2. [**Android Game Tools:**](https://www.youtube.com/watch?v=MuV9AzbgCOw) An Android automation tool to streamline and automate gaming tasks.
 
