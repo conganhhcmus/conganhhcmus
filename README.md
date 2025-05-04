@@ -11,6 +11,8 @@
  
 2. [**Android Game Tools:**](https://www.youtube.com/watch?v=MuV9AzbgCOw) An Android automation tool to streamline and automate gaming tasks.
 
+3. [**LeetCode Practice:**](https://github.com/conganhhcmus/leetcode-practice) This repository contains my solutions to various LeetCode problems and contests.
+
 **How to reach me:**
 
 [<img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="3.5%"/>](https://www.youtube.com/@ledoanconganh) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/conganhhcmus)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/conganhhcmus)  &nbsp; <a href="mailto:conganhhcmus@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
