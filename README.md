@@ -30,7 +30,7 @@
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/conganhhcmus/conganhhcmus/output/github-contribution-grid-snake.svg" />
 
-<table cellpadding="0">
+<table cellpadding="0" align="center">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="150" src="https://github-stats-extended.vercel.app/api?username=conganhhcmus&show_icons=true&theme=vision-friendly-dark"/></td>
