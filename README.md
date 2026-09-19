@@ -30,12 +30,12 @@
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/conganhhcmus/conganhhcmus/output/github-contribution-grid-snake.svg" />
 
-<table cellpadding="0" align="center">
+<table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=conganhhcmus&show_icons=true&theme=vision-friendly-dark"/></td>
+    <td valign="top"><img height="150" src="https://github-stats-extended.vercel.app/api?username=conganhhcmus&show_icons=true&theme=vision-friendly-dark"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=conganhhcmus&langs_count=6&layout=compact&theme=vision-friendly-dark"/></td>
+    <td valign="top"><img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=conganhhcmus&langs_count=6&layout=compact&theme=vision-friendly-dark"/></td>
   </tr>
 </table>
 
